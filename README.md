@@ -102,7 +102,7 @@ Stochastic-Signal-Analysis/
 ### **Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Krissaan-amen/Stochastic-Signal-Analysis-with-AR-Models.git
+   git clone https://github.com/Krissaan-amen/Stochastic_Signal_Analysis_with_AR_Models.git
    ```
 2. Place the EEG data file (`eeg1.mat`) in the `data/` folder.
 
@@ -120,5 +120,6 @@ Navigate to the `src/` folder in MATLAB and run the desired scripts:
 2. **Signal Processing**: Analyze frequency components for communication systems.
 3. **Neuroscience**: Detect brain rhythms and diagnose neurological conditions using EEG signals.
 4. **Engineering**: Apply spectral analysis techniques to mechanical or electrical systems.
+
 
 
